@@ -1,0 +1,43 @@
+littlebigdetails.com
+10개 이상 맘에 드는 것/인상적인 것들을 뽑고 이유를 적을 것
+
+
+1. Chrome - The offline screen turns into a game when you press your space button.
+크롬 – 네트워크가 연결이 되지 않을 때 스페이스바를 누르면 간단한 게임을 할 수 있다.
+reason – 실제로 스마트폰에서 데이터네트워크를 끄고, 데스크톱에서 네트워크 연결을 끊고 해본 결과 공룡이 장애물을 뛰어넘는 간단한 게임을 할 수가 있었다. 네트워크가 안 될 때 짜증을 줄일 수 있을 거 같아서 기분 좋은 발상이라는 생각이 들었다. 
+
+2. The Noun Project - When resetting your user password you receive an email where the key icon changes. 
+The Noun Project – 비밀번호 재설정시, 키 아이콘이 바뀌는 이메일을 받는다.
+reason – 그저 유저의 비밀번호가 바뀌었다는 것을 알려주기 위한 메일 발송인데, 키의 홈 부분이 바뀌는 것이 너무 귀여웠다.
+
+3. Chrome for Android - Displays a happy face emoticon in place of numbers when you have too many tabs open.
+안드로이드용 크롬 – 탭을 너무 많이 열었을 때는 미소 짓는 이모티콘을 보여준다.
+reason – 실험해 보았다. 50개를 열면 미소 이모티콘이 나올 줄 알았으나, 보기 좋게 예상은 빗나갔고, 100개가 돼야 이모티콘이 나타났다. 탭에 세자리 숫자를 넣기는 버거웠나보다. 
+
+4. Star Wars - The hamburger menu icons are made of lightsabers
+스타 워즈 – 햄버거메뉴아이콘은 라이트세이버로 만들어졌다.
+reason – 스타 워즈 광팬으로서 햄버거 메뉴 아이콘을 클릭할 때 초록색 라이트세이버와 빨간색 라이트세이버로 바뀐다는 것이 너무나도 신기했고, 페이지에서 메뉴를 열 때 쓰이는 아이콘을 햄버거메뉴아이콘이라 부르는 것도 처음 알았다. 
+
+5. Google Maps - Building shadows display accurately according to the time of day.
+구글 맵스 – 건물의 그림자를 시간대에 따라 보여준다.
+reason – 시간대에 따라 그림자가 어느 곳에 있는가를 보여주는 것이 재미있는 발상이라고 생각하고, 그림자에 위치에 따라 그 지역에 해가 어디쯤 떠 있겠구나 까지 생각할 수 있어서 좋았다. 
+
+6. Github -  “Spooky” colors are used for the contributions overview during Halloween.
+깃허브 – 할로윈 시즌에는 으스스한 컬러가 contribution overview메뉴에서 사용된다.
+reason – 외국의 할로윈이라는 문화가 언제나 재미있고 부러운 전통이라고 생각했는데, 이렇게 세세하게 컬러까지 신경 쓰는 것이 돋보였다. 
+
+7. Google Hangouts - typing “/ponystream” will make ponies run across the chat window.
+구글 행아웃 - /ponystream 이라고 타이핑하면 포니들이 채팅윈도우를 뛰어다닌다
+reason – 행아웃을 쓰는 유저로써, 보자마자 너무나도 신기해서 /ponystream, /pinchforks, /ponies를 주위의 친구들한테 보내보고 받아보기도 하였지만 되지 않았다. 단회성 이벤트 이었나 보다.
+
+8. Goggle - When searching for an upcoming movie, the Knowledge Graph box shows the release date and asks if you’d like to create a reminder.
+구근 – 개봉예정인 영화를 검색할 때, Knowledge Graph 박스가 개봉일 을 보여주고 알람버튼을 눌러 기억할 수 있게 해준다. 
+reason – 다다음달에 마블에서 앤트맨이 개봉하는데 리마인드 기능을 눌러서 알림을 받아야겠다는 생각이 들었다!
+
+9. EA SPORTS - The header background color is #eaeaea.
+EA스포츠 – html 헤더의 백그라운드 RGB코드색은 eaeaea이다.
+reason – 보자마자 너무나도 웃겼다. 피파온라인게임을 할 때부터 인트로부분에서 E! A! sports! 부분이 너무 강렬히 남아있어서 그런지는 모르겠지만, 어쨌든 그냥 웃겼다. 
+
+10. iOS7 - The clock icon shows the current time.
+iOS7 – 시계아이콘이 현재 시각을 보여준다.
+reason – 역시 애플이라는 생각이 들었다. 센스가 있다고 느껴졌고, 쉽게 생각할 수 있지만 쉽게 행동으로 옮기지 못하는 느낌이었다. 
