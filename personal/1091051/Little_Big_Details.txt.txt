@@ -1,0 +1,62 @@
+1. Evernote - Automatically converts date format dependent on column width.
+ - 열의 넓이에 따라 날짜가 더 자세히 보여지는데 사용자가 직접 보싶은 날짜 정보를 볼수있게 하여 사용자의 편의를 봐준게 눈길을 끌었다.
+
+2. Batch - When enabling the camera flash, the camera icon on the shutter button gets a little white flash.
+ - 가끔 사진을 찍을 때 플래시가 갑자기 켜져 사진을 다시 찍는경우가 종종있었다. 사용자가 버튼을 누르기전 카메라 버튼을 확인한다면 이런 실수가 줄어들 것 같다.
+
+3. Chrome - The offline screen turns into a game when you press your space button.
+ - 오프라인 스크린이 됐을 때 게임을 켜줘서 사용자가 기다리는 지루한 시간을 게임이란 콘텐츠를 넣어 기다리는 시간마저 즐겁게 한 것 같다.
+
+4. The Noun Project - When resetting your user password you receive an email where the key icon changes.
+ - 비밀번호라는게 열쇠와도 같은 의미인데 이게 비밀번호마다 다른형태의 열쇠라는 개념을 다시 한번 생각나게 해주어 비밀번호가 나만의 것이다라는 인식이 더 생기는것 같다.
+
+5. Twitter Counter - While collecting data on your tweets, it recommends you to read a random article on Wikipedia or to grab a coffee in the meantime.  
+ - 트위터도 크롬과 같은 사례로 사용자의 지루할 수 있는 시간을 유용한 기사를 추천해주어 시간을 버리지 않게 해주었다는게 인상깊다.
+
+6. Beanstalk - The password strength indicator shows you the amount of hours needed to crack it. 
+ - 보통 사용자가 비밀번호를 바꿀 때 자신이 편하게 들어갈 수 있는 비밀번호를 입력하는데 이 비밀번호가 몇시간만에 해킹당할지 알려주어 어려운 비밀번호 설정을 유도한다는 발상이 창의적이다.
+ 
+7. NY Times - On a tablet device, double-tapping the article text enlarges the text size rather than zooming the entire screen.
+ - 보통 화면 확대를 하면 전체적으로 확대가 되는데 뉴욕타임즈 답게 기사만 확대를 시켜서 기사를 확대해보는 어른들을 생각한 아이디어라고 생각한다.
+
+8. The Daily Beast - As you scroll through an article, a meter fills up to indicate how far along you are.
+ - 스크롤내린양에 따라 자신이 어느 지점까지 봣는지 알 수 있는데 이건 레진에도 적용 시킬 수 있을것 같다는 생각을 했다.
+
+9. Chrome for Android - Displays a happy face emoticon in place of numbers when you have too many tabs open.
+ - 사용자가 자주 온 사이트에서 옆에 아이콘이 웃는 얼굴로 바뀌는데 화난표정이 되었을때 자신이 자주가지 않던 사이트라 조심하게 될 수 있을것 같다.
+
+10. Google Maps - Building shadows display accurately according to the time of day.
+ - 구글맵에서 시간에 따라 그림자의 위치가 바뀌는데 구글의 디테일이 대단하다고 생각한다.
+
+11. InVision - When switching tabs from a blog post, the tab title changes to “Don’t forget to read this…”
+ - 웹에서 탭을 다른 탭으로 전환시 탭제목이 바뀌는데 사용자가 다른곳에 갔다가 그 탭을 보고 다시 들어갈 수 있을 것 같다.
+
+12. ReadMe - The owl covers her eyes while you type your password.
+ - 올빼미 캐릭터가 아이디칠때는 보고 있다가 갑자기 사용자가 비밀번호를 치면 자신의 눈을 가린다. 이런 애니메이션을 통해 사용자는 다시 그 사이트를 찾게 될 것이다.
+
+13. Amazon - Uses faux 3D animations to guide the user to view the back and internal book details.
+ - 아마존에서 책 뒷면 그리고 책을 3d로 볼 수 있게 되어있는데 이걸로 사용자가 책의 두께도 알 수 있고 인터넷에서 주문하는데에 있어 신뢰도도 올라갈 것이라고 생각한다.
+
+14. Foursquare - displays a special greeting when you open the app on your birthday.
+ - 앱 실행시 생일축하 알림 뜨는 기능인데 생일날 앱에서 이런 축하가 오면 깜짝놀라기도 하겠지만 어플에 대해 더 애착이 생길 것 같다.
+
+15. Paypal - When the PayPal app is in iOS app switch mode, activity and account details are blurred.
+ - 페이팔 앱인데 ios에서 다중모드 실행시 내용이 블러 처리 돼 결제를 하는 페이팔이나 은행앱에서는 이런 기능이 모두 적용되는 것이 좋다고 생각한다.
+
+16. Google images - When the image is an animated GIF, a loading bar appears at the bottom of the image until the animation is loaded
+ - 구글이미지에서 gif를 받을때 이미지 밑에 바가 애니메이션형태로 사용자에게 다운로드중이라는걸 표시해줘서 사진이라 생각하고 지나치는 일을 좀 줄일수 있을 것 같다.
+
+17. Balsamiq - Time on iPhone mock up corresponds to system time. (Is being updated once when view appears)
+ - 발사믹에서 아이폰 목업에 시간을 시스템 시간으로 맞춰주는 기능이며 사용자 시스템 시간에 맞춰주기 때문에 목업에 대해 더 몰입 할 수 있을 것 같다.
+
+18. Google Maps for iPhone - Double-tap to zoom with one finger
+ - 한 손으로 줌을 가능하게해 방법은 더블탭 후 위아래로 조절
+
+19. GitHub - When you delete a repository, it has you type the full repository name to confirm the action.
+ - GitHub에서 레파지토리 지울때 레파지토리명을 입력해야 지우게했어 최근 parse라는 백앤드 서비스에서 테이블을 지울때도 테이블명을 입력하여 지우는걸 봤는데 사용자가 중요한 것을 지우는 것을 방지해주는 것 같다.
+
+20. OS X - Adjust the volume in ¼ increments with shift+alt+volume keys.
+ - OS X에서 볼륨을 한칸씩 줄이는게 아니고 또 칸을 늘린것이 아닌 1/4만큼 줄이고 올릴 수 있게 했는데 칸을 늘리는 방안보다 UI변경도 없고 좋은 방안 같아.
+
+21. Github - When you click to focus the search bar  the navigation disappears to give you more space.
+ - Github에서 검색창을 클릭하면 나머지 옆에 아이콘이 사라지고 그 자리에 검색창이 늘어나는데 사용자가 현재 사용하는 위치에 더 집중 할 수 있게 도와주는 역할을 하는것이 참신한 것 같다.
