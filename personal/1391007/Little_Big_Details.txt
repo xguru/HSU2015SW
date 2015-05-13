@@ -1,0 +1,39 @@
+1. Yahoo Weather - screen corners frost over when very cold temperature.
+
+겉이 얼어있는 것 같은 효과가 인상적입니다. 그리고 글자도 깔끔한 폰트에 하얀색이고 글자 외 바탕이 사진으로 다 채워져 있어서 시원해보입니다.
+
+2. Bandcamp ? After playing the same song a couple of times, you’re prompted to pay for it. If you decline, the heart breaks.
+
+하트가 붙어있어서 쪽지가 날라온것같은데 No, Thanks를 클릭하면 하트가 파사삭 부서지는 효과가 광고지만 귀엽습니다.
+
+3. Mailchimp - When you’re about to send out a campaign, the accompanying animation shows how stressful it is.
+
+원숭이 손가락이 버튼을 누를까 말까 하는 것 같습니다. 그리고 Send Now를 누르면 원숭이가 버튼을 누르는 애니메이션이 실행됩니다. 바탕도 노란색에 그림도 깔끔해서 귀엽습니다.
+
+4. Photojojo - The drone illustration in the footer follows your cursor around.
+
+마우스를 UFO? 드론?이 따라다니는 애니메이션입니다. 공룡이 조종하는 이미지도 그려져 있습니다. 정말 귀엽네요. 사용자가 마우스 움직이는 것에 재미를 느낄 것 같습니다.
+
+5. Star Wars - The hamburger menu icons are made of lightsabers.
+
+스타워즈 팬이라면 정말 홀딱 빠질 것 같은 애니메이션입니다. 광선검이 X처럼 보여지고 누르면 홈?으로 가는 것 같습니다. 햄버거 메뉴아이콘과 어울리진 않는 것 같고 스타워즈를 공략한 App이나 페이지였으면 좋았을 것 같습니다.
+
+6. Google Maps - Building shadows display accurately according to the time of day.
+
+탑?이 중앙에 있고 시간이 그림자에 따라 돌아가는 애니메이션입니다. 위에서 내려다보는 것 같은데 귀엽고 재미있습니다.
+
+7. MyFitnessPal ? Reminder notifications are automatically disabled if you ignore them after a few days.
+
+제가 약간 하얀 글자에 깔끔한 폰트를 좋아해서 그런지 좋네요. 디자인이 깔끔하고 애플사같은 느낌이 있습니다. 실제로 애플인지는 모르겠지만 이쁘네요
+
+8. Sunrise Calendar - Event icon changes depending on the context title text.
+
+글자를 바꾸면 글자에 맞는 그래픽이미지로 바뀝니다. Beers는 맥주로  Dinner는 포크와 나이프로 변경됩니다. 귀엽고 이쁜데 저장되어있지 않은 단어가 있으면 어떻게 되나 궁금합니다.
+
+9. ReadMe - The owl covers her eyes while you type your password.
+
+부엉이가 로그인 화면위에 올라가 있는데, 아이디를 쓰고 비밀번호에 커서를 올리면 눈을 가리는 애니메이션이 실행된다. 귀엽고 사용자가 재밌어할 것 같다.
+
+10. Little Big Details
+
+Little Big Details에서 올려진 글을 보고 스크롤 내리고 게시판 123... 계속 다른 글 번호로 클릭해 이동하는데 알게 된게 스크롤을 내리고 다른 번호를 누를때 이동할 필요가 없다. 다음 게시판이 이미 마우스의 스크롤 이동 필요없이 맞춰져 있다는 점이 매우 편리한 것 같다.
