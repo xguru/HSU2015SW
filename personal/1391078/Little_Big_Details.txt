@@ -1,0 +1,31 @@
+﻿1. GTA 5 - The cursor on the virtual internet inside of the game is a middle finger.
+게임 GTA 5의 가상 인터넷의 커서 모양은 일반적인 검지가 아니고 중지이다.
+자세히 보지 않으면 아무도 몰랐을 부분까지 게임의 분위기에 맞춰 재미있게 바꾼 점이 인상적이다.
+
+2. Yahoo Weather - screen corners frost over when very cold temperature.
+날씨에 맞게 어플의 디자인이 변하는 건 많이 본 것 같지만 휴대폰에 유리창처럼 서리가 낀다는 설정이 너무 재미있다. 이런 점들이 글로 쓰여진 정보를 보지 않아도 날씨를 예측 할 수 있다는 점에서 좋은 것 같다. 지금 준비하는 기말 프로젝트에 적용하고 싶은 부분이다.
+
+3. Give A Goat - Moving the donation slider to the max makes the goat blee.
+기부하는 금액에 따라서 염소 한 마리를 기준으로 어느 정도인지를 이미지로 볼 수 있게 해주는 서비스이다. 게다가 1마리를 기부 금액으로 설정하면 염소가 울기도 하는데 이런 귀여운 디테일들이 기부를 더 부추길 수도 있다는 생각이 든다.
+
+4. Evernote - Automatically converts date format dependent on column width.
+Evernote에서 날짜 행의 넓이를 조절하면 거기에 맞게 날짜 표기 방법이 바뀌는 것이다. 행의 길이를 조절하면 내용보다 넓이가 짧아져 생략되는 부분이 없도록 하는 부분이 좋은 것 같다.
+
+5. Asos - After providing your birthday, calculated how many days until your next birthday.
+어릴 때 생일이 점점 다가오면 얼마나 남았는지 매일 세어보면서 기대하던 기억이 난다. Asos의 이런 detail은 어릴 때의 그런 좋은 기억들을 추억하게 하고 생일을 기다리는 기분 좋은 마음을 만들어주는 아기자기한 서비스라고 생각한다.
+
+6. Git — Git makes an educated guess at what you mean when you make a typo.
+프로그래밍을 하면서 일어날 수 있는 오타를 모르고 지나가면 오류가 나서 찾아야 하는 번거로운 상황이 자주 발생한다. 그런데 Git의 이런 서비스로 그런 번거로움을 많이 줄여준다는 점에서 작지만 큰 편리함이라고 생각한다.
+
+7. Chrome - The offline screen turns into a game when you press your space button.
+인터넷 연결이 안 됐다는 메시지는 받으면 보통 짜증이 먼저 나는데, 크롬의 이런 작은 위트로 그 순간을 게임과 함께 재미있게 넘길 수 있는 것 같다.
+
+8. WeTransfer - When dragging a file into the browser window, the message reads "Drop It Like Its Hot"
+'뜨거운 것을 잡고 있는 것처럼 그걸 놔버려!'라는 문구가 너무 귀여워서 지나칠 수 없었다. drag and drop을 그렇게 생각할 수 있다는 것이 너무 인상적인 것 같다. 
+
+9. Virgin America - During the seat selection process, unavailable seats appear as the avatars of the other travelers (you can choose from a number of smileys)
+이미 채워진 좌석들을 그냥 다른 색으로 표시하는 경우가 많은데 사람들의 smile 이미지로 넣어 기분 좋게 만들고 내가 예약한 좌석에 들어갈 smile 이미지를 선택할 수 있게 한 점도, 나라면 내가 설정한 이미지를 보기 위해 좌석 확인을 한 번 더 할 것 같다.
+
+10. Automattic - The jobs page detects if you’ve visited the page multiple times, and displays an encouraging message to apply.
+구직 페이지에 여러번 접속하면, 격려 메시지를 보여주는 것이다. 내가 만약 구직자라면 저 메시지를 보고
+회사에 대한 이미지도 좋아질 뿐만 아니라 아주 많은 힘이 될 것 같다.
